@@ -1,5 +1,6 @@
 # Paul Kamau
 
+![Data Visualization](https://github.com/kamaupaul/kamaupaul/blob/main/WhatsApp%20Image%202023-10-20%20at%2016.38.44%20(1).jpeg)
 Hello, I'm Paul Kamau, a passionate data scientist and graduate of Data Science from Moringa School. With a background in Actuarial Science and practical experience in IT, I've cultivated a deep-seated fascination for data science and its transformative potential.
 
 ## About Me

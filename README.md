@@ -27,6 +27,6 @@ Since then, I've been dedicated to expanding my knowledge and expertise in data 
 
 I thrive on challenges, excel as a collaborative team player, and derive immense satisfaction from solving intricate problems. My skill set spans various data science tools and technologies, and I'm genuinely enthusiastic about the continual advancements in this field.
 
-![IMAGE]([Image URL](https://github.com/kamaupaul/kamaupaul/blob/main/data_science_image.jpg))
+![IMAGE](https://github.com/kamaupaul/kamaupaul/blob/main/data_science_image.jpg)
 
 **Connect with me:** [LinkedIn](www.linkedin.com/in/paul-njuguna-63a869185)

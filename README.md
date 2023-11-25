@@ -29,4 +29,5 @@ I thrive on challenges, excel as a collaborative team player, and derive immense
 
 ![IMAGE](https://github.com/kamaupaul/kamaupaul/blob/main/data_science_image.jpg)
 
-**Connect with me:** [LinkedIn](www.linkedin.com/in/paul-njuguna-63a869185)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/paul-njuguna-63a869185)
+

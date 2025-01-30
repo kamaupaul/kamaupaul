@@ -1,5 +1,6 @@
 # Paul Kamau
 ![IMAGE](https://github.com/kamaupaul/kamaupaul/blob/main/data_science_image.jpg)
+
 Hello, I'm Paul Kamau, a passionate data scientist and graduate of Data Science from Moringa School. With a background in Actuarial Science and practical experience in IT, I've cultivated a deep-seated fascination for data science and its transformative potential.
 
 ## About Me
